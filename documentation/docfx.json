@@ -10,7 +10,7 @@
           "install_config/**.md",
           "install_config/**/toc.md",
           "api/**.md",
-          "api/**/toc.yml",
+          "api/**/toc.md",
           "toc.yml",
           "*.md"
         ],
